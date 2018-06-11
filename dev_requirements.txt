@@ -1,0 +1,5 @@
+awscli==1.11.89
+boto3==1.4.4
+
+telepot==10.5
+emoji==0.4.5

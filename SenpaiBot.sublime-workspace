@@ -1,0 +1,1231 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"date",
+				"datetime\tclass"
+			],
+			[
+				"read",
+				"read_set\tstatement"
+			],
+			[
+				"all",
+				"all_reads\tstatement"
+			],
+			[
+				"ra",
+				"reading\tparam"
+			],
+			[
+				"du",
+				"dumps\tfunction"
+			],
+			[
+				"cha",
+				"chat_id\tparam"
+			],
+			[
+				"get",
+				"get_chat\tfunction"
+			],
+			[
+				"rem",
+				"reminder\tstatement"
+			],
+			[
+				"remi",
+				"reminders\tstatement"
+			],
+			[
+				"lat",
+				"lateweek"
+			],
+			[
+				"sen",
+				"senpaibot"
+			],
+			[
+				"EE",
+				"EEPROM"
+			],
+			[
+				"pr",
+				"println"
+			],
+			[
+				"inc",
+				"inc\t#include <…>"
+			],
+			[
+				"add",
+				"address"
+			],
+			[
+				"mes",
+				"messages"
+			],
+			[
+				"mess",
+				"messages\tstatement"
+			],
+			[
+				"messa",
+				"message"
+			],
+			[
+				"att",
+				"attachment_payload\tparam"
+			],
+			[
+				"ty",
+				"typing_time\tparam"
+			],
+			[
+				"m",
+				"m_type\tparam"
+			],
+			[
+				"sim",
+				"simple_message\tfunction"
+			],
+			[
+				"qui",
+				"quick_replies\tparam"
+			],
+			[
+				"res",
+				"response\tstatement"
+			],
+			[
+				"con",
+				"conversation_id"
+			],
+			[
+				"De",
+				"DetailView\tclass"
+			],
+			[
+				"cs",
+				"csrf_exempt\tfunction"
+			],
+			[
+				"Dw",
+				"DetailView\tclass"
+			],
+			[
+				"In",
+				"IndexError\tclass"
+			],
+			[
+				"Lo",
+				"LoginRequiredMixin\tclass"
+			],
+			[
+				"log",
+				"login_url\tstatement"
+			],
+			[
+				"Re",
+				"RejectSubmit\tclass"
+			],
+			[
+				"Rep",
+				"ReportedSpottedsView\tclass"
+			],
+			[
+				"Po",
+				"PolemicSpottedsView\tclass"
+			],
+			[
+				"PendingSpotted",
+				"PendingSpottedsView\tclass"
+			],
+			[
+				"Mo",
+				"ModOnlyMixin\tclass"
+			],
+			[
+				"Mod",
+				"ModOnlyMixin\tclass"
+			],
+			[
+				"for",
+				"form_valid"
+			],
+			[
+				"Pen",
+				"PendingSpotted\tclass"
+			],
+			[
+				"H",
+				"Handler404\tclass"
+			],
+			[
+				"For",
+				"ForMeDeleteOptions\tclass"
+			],
+			[
+				"My",
+				"MyDeleteOptions\tclass"
+			],
+			[
+				"ge",
+				"get_context_data\tfunction"
+			],
+			[
+				"auth",
+				"author"
+			],
+			[
+				"Bse",
+				"BaseFormView\tclass"
+			],
+			[
+				"Proc",
+				"ProcessFormView\tclass"
+			],
+			[
+				"Mixi",
+				"FormMixin\tclass"
+			],
+			[
+				"Base",
+				"BaseFormView\tclass"
+			],
+			[
+				"Im",
+				"ImgurUpload\tclass"
+			],
+			[
+				"form",
+				"form_class\tstatement"
+			],
+			[
+				"mi",
+				"mixins\tmodule"
+			],
+			[
+				"cle",
+				"clean_picture"
+			],
+			[
+				"vali",
+				"ValidationError\tclass"
+			],
+			[
+				"cont",
+				"content_types"
+			],
+			[
+				"Con",
+				"ContentTypeRestrictedFileField"
+			],
+			[
+				"Fi",
+				"FileField\tclass"
+			],
+			[
+				"clea",
+				"cleaned_data\tstatement"
+			],
+			[
+				"Htt",
+				"HttpResponseRedirect\tclass"
+			],
+			[
+				"to",
+				"total_spotteds\tfunction"
+			],
+			[
+				"conte",
+				"context\tstatement"
+			],
+			[
+				"tem",
+				"template_name\tstatement"
+			],
+			[
+				"Mu",
+				"MultiFormsView\tclass"
+			],
+			[
+				"Tem",
+				"TemplateResponseMixin\tclass"
+			],
+			[
+				"nex",
+				"next_param\tstatement"
+			],
+			[
+				"Fa",
+				"FacebookLogin\tclass"
+			],
+			[
+				"Ke",
+				"KeyError\tclass"
+			],
+			[
+				"sta",
+				"state\tstatement"
+			],
+			[
+				"face",
+				"FacebookLogin\tclass"
+			],
+			[
+				"logi",
+				"login_successful\tfunction"
+			],
+			[
+				"Pro",
+				"ProcessRawBotMessage\tclass"
+			],
+			[
+				"Co",
+				"CoinHiveStats\tclass"
+			],
+			[
+				"Fr",
+				"ForMeDeleteOptions\tclass"
+			],
+			[
+				"my",
+				"MyDeleteOptions\tclass"
+			],
+			[
+				"cla",
+				"class\tNew Class"
+			],
+			[
+				"me",
+				"message\tparam"
+			],
+			[
+				"ran",
+				"get_random_string"
+			],
+			[
+				"nag",
+				"nag_id\tstatement"
+			],
+			[
+				"Resp",
+				"HttpResponse"
+			],
+			[
+				"user",
+				"user_passes_test\tfunction"
+			],
+			[
+				"is",
+				"is_moderator\tfunction"
+			],
+			[
+				"mode",
+				"moderation\tmodule"
+			],
+			[
+				"cele",
+				"celery_admin_mail\tfunction"
+			],
+			[
+				"ins",
+				"instance_id\tparam"
+			],
+			[
+				"sha",
+				"shared_task\tfunction"
+			],
+			[
+				"new",
+				"new_id\tstatement"
+			],
+			[
+				"de",
+				"description"
+			],
+			[
+				"Spo",
+				"SpottedBot"
+			],
+			[
+				"Key",
+				"KeyboardInterrupt\tclass"
+			],
+			[
+				"proce",
+				"process_questions\tfunction"
+			],
+			[
+				"pro",
+				"process_question\tfunction"
+			],
+			[
+				"env",
+				"env_string\tstatement"
+			],
+			[
+				"ask",
+				"ask_user\tfunction"
+			],
+			[
+				"op",
+				"options\tparam"
+			],
+			[
+				"No",
+				"None\tkeyword"
+			],
+			[
+				"api",
+				"api_process_raw_bot_message\tfunction"
+			],
+			[
+				"last",
+				"last_raw_message"
+			],
+			[
+				"las",
+				"last_raw_message"
+			],
+			[
+				"ap",
+				"api_interface\tmodule"
+			],
+			[
+				"di",
+				"digest\tstatement"
+			],
+			[
+				"co",
+				"compare_digest\tfunction"
+			],
+			[
+				"han",
+				"handler\tmodule"
+			],
+			[
+				"hand",
+				"handover_handler\tfunction"
+			],
+			[
+				"che",
+				"check_expired\tfunction"
+			],
+			[
+				"hadn",
+				"handle_func"
+			],
+			[
+				"set",
+				"set_active\tfunction"
+			],
+			[
+				"PAS",
+				"pass_thread_control\tfunction"
+			],
+			[
+				"as",
+				"AssertionError\tclass"
+			],
+			[
+				"an",
+				"ask_question"
+			],
+			[
+				"pos",
+				"postback_handler\tmodule"
+			],
+			[
+				"base",
+				"base_message\tmodule"
+			],
+			[
+				"stan",
+				"standby"
+			],
+			[
+				"standby",
+				"standby_expired"
+			],
+			[
+				"Date",
+				"DateTimeField\tclass"
+			],
+			[
+				"class",
+				"classmethod\tclass"
+			],
+			[
+				"b",
+				"buttons"
+			],
+			[
+				"butt",
+				"button"
+			],
+			[
+				"reve",
+				"reverse\tfunction"
+			],
+			[
+				"en",
+				"environ\tstatement"
+			],
+			[
+				"atta",
+				"attachment_payload\tparam"
+			],
+			[
+				"chat",
+				"chatbot\tmodule"
+			],
+			[
+				"Mess",
+				"MessengerSetup\tclass"
+			],
+			[
+				"at",
+				"attachment_type\tparam"
+			],
+			[
+				"su",
+				"super\tclass"
+			],
+			[
+				"send",
+				"sender_action"
+			],
+			[
+				"pa",
+				"payload\tstatement"
+			],
+			[
+				"cu",
+				"curr"
+			],
+			[
+				"has",
+				"has_left"
+			],
+			[
+				"n",
+				"node2"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "senpaibot/reading/reading_list.py",
+			"settings":
+			{
+				"buffer_size": 128,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 354.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"com",
+				"Git: Commit"
+			],
+			[
+				"add",
+				"Git: Add All"
+			],
+			[
+				"re",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"ind",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"pu",
+				"Git: Push"
+			],
+			[
+				"co",
+				"Git: Commit"
+			],
+			[
+				"pus",
+				"Git: Push"
+			],
+			[
+				"rei",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"rein",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"diff",
+				"Git: Diff All Files"
+			],
+			[
+				"log",
+				"Git: Log All"
+			],
+			[
+				"stat",
+				"Git: Status"
+			],
+			[
+				"uns",
+				"Git: Reset (unstage) All"
+			],
+			[
+				"reset",
+				"Git: Reset (unstage) All"
+			],
+			[
+				"unsta",
+				"Git: Reset (unstage) All"
+			],
+			[
+				"git re",
+				"Git: Reset (unstage) All"
+			],
+			[
+				"rese",
+				"Git: Reset (unstage) All"
+			],
+			[
+				"ad",
+				"Git: Add Current File"
+			],
+			[
+				"mark",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"un",
+				"Git: Reset (unstage) All"
+			],
+			[
+				"comm",
+				"Git: Commit"
+			],
+			[
+				"git",
+				"Git: Reset (hard) HEAD"
+			],
+			[
+				"Pus",
+				"Git: Push"
+			],
+			[
+				"pull",
+				"Git: Pull"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"md",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"pep",
+				"Anaconda: Autoformat PEP8 Errors"
+			],
+			[
+				"res",
+				"Git: Reset (unstage) All"
+			],
+			[
+				"status",
+				"Git: Status"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"inde",
+				"Indexing Status"
+			],
+			[
+				"mar",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"unst",
+				"Git: Reset (unstage) All"
+			],
+			[
+				"pe",
+				"Anaconda: Autoformat PEP8 Errors"
+			],
+			[
+				"",
+				"Anaconda: Autoformat PEP8 Errors"
+			],
+			[
+				"sta",
+				"Indexing Status"
+			],
+			[
+				"pul",
+				"Git: Pull"
+			],
+			[
+				"st",
+				"Git: Status"
+			],
+			[
+				"hist",
+				"Git: Commit history"
+			],
+			[
+				"Pu",
+				"Git: Push"
+			],
+			[
+				"tod",
+				"TodoReview: Open Files"
+			],
+			[
+				"todo",
+				"TodoReview: Open Files"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"REIN",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"init",
+				"Git: Init"
+			],
+			[
+				"sts",
+				"Set Syntax: Tcl"
+			],
+			[
+				"in",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"push",
+				"Git: Push"
+			],
+			[
+				"dif",
+				"Git: Diff All Files"
+			],
+			[
+				"lo",
+				"Git: Log Current File"
+			],
+			[
+				"i",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"pacage",
+				"Package Control: List Packages"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"l",
+				"Git: Log Current File"
+			],
+			[
+				"ana",
+				"Anaconda: Autoformat PEP8 Errors"
+			],
+			[
+				"us",
+				"LaTeXTools: Reset user settings to default"
+			],
+			[
+				"gits",
+				"Git: Status"
+			],
+			[
+				"a",
+				"Git: Add All"
+			],
+			[
+				"pep8",
+				"Anaconda: Autoformat PEP8 Errors"
+			],
+			[
+				"ocm",
+				"Markdown Preview: Open Markdown Cheat sheet"
+			],
+			[
+				"p",
+				"Package Control: Install Package"
+			],
+			[
+				"gi",
+				"Git: Add All"
+			],
+			[
+				"statu",
+				"Git: Status"
+			],
+			[
+				"PU",
+				"Git: Push"
+			],
+			[
+				"git com",
+				"Git: Commit"
+			],
+			[
+				"cha",
+				"Git: Change Branch"
+			],
+			[
+				"ch",
+				"Git: Change Branch"
+			],
+			[
+				"chan",
+				"Git: Change Branch"
+			],
+			[
+				"mer",
+				"Git: Merge Branch"
+			],
+			[
+				"bra",
+				"Git: Change Branch"
+			],
+			[
+				"amme",
+				"Git: Amend Commit"
+			],
+			[
+				"c",
+				"Git: Change Branch"
+			],
+			[
+				"chang",
+				"Git: Change Branch"
+			],
+			[
+				"bran",
+				"Git: Change Branch"
+			],
+			[
+				"previ",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"dig",
+				"Git: Diff All Files (Ignore Whitespace)"
+			],
+			[
+				"add ",
+				"Git: Add Current File"
+			],
+			[
+				"bu",
+				"Build With: LaTeX"
+			],
+			[
+				"bui",
+				"Build With: LaTeX"
+			],
+			[
+				"latex",
+				"LaTeXTools: Delete temporary files"
+			],
+			[
+				"buid",
+				"Build With: LaTeX"
+			],
+			[
+				"pdf",
+				"LaTeXTools: View PDF"
+			]
+		],
+		"width": 472.0
+	},
+	"console":
+	{
+		"height": 216.0,
+		"history":
+		[
+			"python",
+			"exit()",
+			"ls",
+			"python",
+			"pythpn",
+			"ls",
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/Maronato/Documents/GEAv/SenpaiBot",
+		"/Users/Maronato/Documents/GEAv/SenpaiBot/senpaibot",
+		"/Users/Maronato/Documents/GEAv/SenpaiBot/senpaibot/reading"
+	],
+	"file_history":
+	[
+		"/Users/Maronato/Documents/GEAv/SenpaiBot/senpaibot/reading/reading_list.py",
+		"/Users/Maronato/Documents/GEAv/SenpaiBot/senpaibot/database/reading_api.py",
+		"/Users/Maronato/Documents/GEAv/SenpaiBot/senpaibot/database/chat_api.py",
+		"/Users/Maronato/Documents/GEAv/SenpaiBot/senpaibot/communication/basic.py",
+		"/Users/Maronato/Documents/GEAv/SenpaiBot/senpaibot/core.py",
+		"/Users/Maronato/Documents/GEAv/SenpaiBot/senpaibot/menu/keyboards.py",
+		"/Users/Maronato/Documents/GEAv/SenpaiBot/senpaibot/subscriptions/send.py",
+		"/Users/Maronato/Documents/GEAv/SenpaiBot/senpaibot/commands/commands.py",
+		"/Users/Maronato/Documents/GEAv/SenpaiBot/senpaibot/subscriptions/subscription.py",
+		"/Users/Maronato/Documents/GEAv/BotSenpai/builder.sh",
+		"/Users/Maronato/Documents/GEAv/BotSenpai/LICENSE",
+		"/Users/Maronato/Documents/GEAv/BotSenpai/README.md",
+		"/Users/Maronato/Documents/GEAv/BotSenpai/dev_requirements.txt",
+		"/Users/Maronato/Documents/GEAv/BotSenpai/requirements.txt",
+		"/Users/Maronato/Documents/GEAv/BotSenpai/lambda_handler.py",
+		"/Users/Maronato/Documents/Arduino/libraries/eeprom/eeprom.h",
+		"/Users/Maronato/Documents/Arduino/libraries/eeprom/examples/eeprom_scanner/eeprom_scanner.ino",
+		"/Users/Maronato/Documents/Arduino/libraries/eeprom/examples/eeprom/eeprom.ino",
+		"/Users/Maronato/Documents/Matérias Unicamp/EA076/EEPROM/eeprom.h",
+		"/Users/Maronato/Documents/Matérias Unicamp/EA000/EEPROM/eeprom.c",
+		"/Users/Maronato/pyenvs/_Users_Maronato_Documents_SpottedBot/venv/lib/python3.6/site-packages/celery/__init__.py",
+		"/Users/Maronato/pyenvs/_Users_Maronato_Documents_SpottedBot/venv/lib/python3.6/site-packages/celery/canvas.py",
+		"/Users/Maronato/Documents/SpottedBot/chatbot/models.py",
+		"/Users/Maronato/Documents/SpottedBot/chatbot/handler.py",
+		"/Users/Maronato/Documents/SpottedBot/project/urls.py",
+		"/Users/Maronato/Documents/SpottedBot/moderation/urls.py",
+		"/Users/Maronato/Documents/SpottedBot/main/urls.py",
+		"/Users/Maronato/Documents/SpottedBot/custom_auth/urls.py",
+		"/Users/Maronato/Documents/SpottedBot/chatbot/views.py",
+		"/Users/Maronato/Documents/SpottedBot/api/urls.py",
+		"/Users/Maronato/Documents/SpottedBot/chatbot/urls.py",
+		"/Users/Maronato/Documents/SpottedBot/spotteds/facebook_page_tools.py",
+		"/Users/Maronato/Documents/SpottedBot/spotteds/urls.py",
+		"/Users/Maronato/Documents/SpottedBot/spotteds/wot_wrapper.py",
+		"/Users/Maronato/Documents/SpottedBot/main/templates/main/index.html",
+		"/Users/Maronato/Documents/SpottedBot/spotteds/views.py",
+		"/Users/Maronato/pyenvs/_Users_Maronato_Documents_SpottedBot/venv/lib/python3.6/site-packages/django/views/generic/__init__.py",
+		"/Users/Maronato/pyenvs/_Users_Maronato_Documents_SpottedBot/venv/lib/python3.6/site-packages/django/views/generic/detail.py",
+		"/Users/Maronato/Documents/SpottedBot/main/templates/main/search.html",
+		"/Users/Maronato/Documents/SpottedBot/spotteds/templates/spotteds/view_spotted.html",
+		"/Users/Maronato/Documents/SpottedBot/main/templates/main/base.html",
+		"/Users/Maronato/Documents/SpottedBot/main/templates/main/facebook_sdk.html",
+		"/Users/Maronato/pyenvs/_Users_Maronato_Documents_SpottedBot/venv/lib/python3.6/site-packages/django/views/generic/base.py",
+		"/Users/Maronato/Documents/SpottedBot/moderation/views.py",
+		"/Users/Maronato/Documents/SpottedBot/moderation/decorators.py",
+		"/Users/Maronato/Documents/SpottedBot/main/views.py",
+		"/Users/Maronato/Documents/SpottedBot/main/mixins.py",
+		"/Users/Maronato/Documents/SpottedBot/main/decorators.py",
+		"/Users/Maronato/Documents/SpottedBot/moderation/models.py",
+		"/Users/Maronato/pyenvs/_Users_Maronato_Documents_SpottedBot/venv/lib/python3.6/site-packages/django/contrib/auth/decorators.py",
+		"/Users/Maronato/Documents/SpottedBot/moderation/templates/moderation/shifts.html",
+		"/Users/Maronato/Documents/SpottedBot/.env",
+		"/Users/Maronato/Documents/SpottedBot/moderation/forms.py",
+		"/Users/Maronato/Documents/SpottedBot/main/forms.py",
+		"/Users/Maronato/Documents/SpottedBot/spotteds/forms.py",
+		"/Users/Maronato/Documents/SpottedBot/project/settings.py",
+		"/Users/Maronato/pyenvs/_Users_Maronato_Documents_SpottedBot/venv/lib/python3.6/site-packages/django/views/generic/edit.py",
+		"/Users/Maronato/Documents/SpottedBot/main/templates/main/imgur_form.html",
+		"/Users/Maronato/Documents/SpottedBot/project/imgur_helper.py",
+		"/Users/Maronato/Documents/SpottedBot/spotteds/models.py",
+		"/Users/Maronato/Documents/SpottedBot/main/multiple_forms.py",
+		"/Users/Maronato/Documents/SpottedBot/custom_auth/views.py",
+		"/Users/Maronato/Documents/SpottedBot/custom_auth/facebook_methods.py",
+		"/Users/Maronato/Documents/SpottedBot/api/views.py",
+		"/Users/Maronato/Documents/SpottedBot/custom_auth/models.py",
+		"/Users/Maronato/Documents/SpottedBot/chatbot/decorators.py",
+		"/Users/Maronato/Documents/SpottedBot/chatbot/setup.py",
+		"/Users/Maronato/Documents/SpottedBot/main/models.py",
+		"/Users/Maronato/Documents/SpottedBot/main/static/main/js/news_notification.js",
+		"/Users/Maronato/Documents/SpottedBot/main/context_processors.py",
+		"/Users/Maronato/Documents/SpottedBot/main/templates/main/dashboard.html",
+		"/Users/Maronato/Documents/SpottedBot/main/static/main/js/coinhive.js",
+		"/Users/Maronato/Documents/SpottedBot/run.sh",
+		"/Users/Maronato/Documents/SpottedBot/run-ssl.sh",
+		"/Users/Maronato/Documents/SpottedBot/.gitignore",
+		"/Users/Maronato/Documents/SpottedBot/project/manual_error_report.py",
+		"/Users/Maronato/Documents/SpottedBot/spotteds/notifications.py",
+		"/Users/Maronato/Documents/SpottedBot/Procfile",
+		"/Users/Maronato/Documents/SpottedBot/project/loghandler.py",
+		"/Users/Maronato/Documents/SpottedBot/api/api_interface.py",
+		"/Users/Maronato/Documents/SpottedBot/main/templates/main/robots.txt",
+		"/Users/Maronato/Documents/SpottedBot/app.json",
+		"/Users/Maronato/Documents/SpottedBot/initialize.py",
+		"/Users/Maronato/Documents/SpottedBot/README.md",
+		"/Users/Maronato/Documents/HackingCup/my/app.json",
+		"/Users/Maronato/Documents/SpottedBot/.env-temp",
+		"/Users/Maronato/Documents/SpottedBot/template.env",
+		"/Users/Maronato/pyenvs/_Users_Maronato_Documents_SpottedBot/venv/lib/python3.6/site-packages/django/core/management/__init__.py",
+		"/Users/Maronato/Documents/SpottedBot/run-secure.sh",
+		"/Users/Maronato/Documents/SpottedBot/requirements.txt",
+		"/Users/Maronato/Documents/SpottedBot/runtime.txt",
+		"/Users/Maronato/Downloads/dropbox codes.txt",
+		"/Users/Maronato/Downloads/reddit codes.txt",
+		"/Users/Maronato/Downloads/nintendo.txt",
+		"/Users/Maronato/Documents/SpottedBot/.travis.yml",
+		"/Users/Maronato/Documents/SpottedBot/chatbot/handlers/messaging.py",
+		"/Users/Maronato/Library/Application Support/Sublime Text 3/Packages/User/Anaconda.sublime-settings",
+		"/Users/Maronato/Documents/SpottedAPI/api/views.py",
+		"/Users/Maronato/Library/Application Support/Sublime Text 3/Packages/Anaconda/Anaconda.sublime-settings",
+		"/Users/Maronato/Documents/SpottedAPI/chatbot/models.py",
+		"/Users/Maronato/Documents/SpottedBot/chatbot/handlers/postbacks.py",
+		"/Users/Maronato/Documents/SpottedBot/chatbot/messages.py",
+		"/Users/Maronato/Documents/SpottedBot/project/__init__.py",
+		"/Users/Maronato/Documents/SpottedBot/project/celery.py",
+		"/Users/Maronato/Documents/SpottedBot/chatbot/handlers/handover.py",
+		"/Users/Maronato/Documents/SpottedBot/chatbot/base_message.py",
+		"/Users/Maronato/Documents/SpottedBot/main/templates/main/privacy.html",
+		"/Users/Maronato/Documents/SpottedBot/chatbot/tasks.py",
+		"/Users/Maronato/Documents/SpottedBot/manage.py",
+		"/Users/Maronato/Documents/SpottedBot/chatbot/handlers/standby.py",
+		"/Users/Maronato/Documents/SpottedBot/db.sqlite3",
+		"/Users/Maronato/Documents/SpottedBot/chatbot/handlers/__init__.py",
+		"/Users/Maronato/Documents/SpottedBot/chatbot/greetings.py",
+		"/Users/Maronato/Documents/SpottedBot/chatbot/handover.py",
+		"/Users/Maronato/Documents/SpottedBot/chatbot/messaging.py",
+		"/Users/Maronato/Documents/SpottedBot/chatbot/management/commands/setup_messenger.py",
+		"/Users/Maronato/Documents/SpottedBot/main/templates/main/users/spotteds/my.html",
+		"/Users/Maronato/Documents/SpottedBot/main/templates/main/users/spotteds/forme.html",
+		"/Users/Maronato/anaconda/lib/python3.5/site-packages/django/core/management/base.py",
+		"/Users/Maronato/anaconda/lib/python3.5/argparse.py",
+		"/Users/Maronato/Documents/Matérias Unicamp/MC202/lab08/lab08.c",
+		"/Users/Maronato/Documents/Matérias Unicamp/MC202/lab08/abb.h",
+		"/Users/Maronato/Documents/Matérias Unicamp/MC202/lab08/abb.c",
+		"/Users/Maronato/Documents/Matérias Unicamp/MC202/lab08/lab08",
+		"/Users/Maronato/Documents/Matérias Unicamp/MC202/lab08/testing.c",
+		"/Users/Maronato/Documents/Matérias Unicamp/MC202/lab08/res.txt",
+		"/Users/Maronato/Documents/Matérias Unicamp/MC202/lab08/out/pset051.txt",
+		"/Users/Maronato/Documents/Matérias Unicamp/MC202/lab08/Makefile"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 322.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "senpaibot/reading/reading_list.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 128,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								81,
+								81
+							]
+						],
+						"settings":
+						{
+							"auto_complete_triggers":
+							[
+								{
+									"characters": ".>:",
+									"selector": "source.c++ - string - comment - constant.numeric"
+								},
+								{
+									"characters": ".>:",
+									"selector": "source.c - string - comment - constant.numeric"
+								},
+								{
+									"characters": ".>: ",
+									"selector": "source.objc++ - string - comment - constant.numeric"
+								},
+								{
+									"characters": ".>: ",
+									"selector": "source.objc - string - comment - constant.numeric"
+								},
+								{
+									"characters": ".>: ",
+									"selector": "source.cuda-c++ - string - comment - constant.numeric"
+								},
+								{
+									"characters": ".",
+									"selector": "source.python - string - constant.numeric"
+								}
+							],
+							"git_gutter_is_enabled": true,
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 35.0
+	},
+	"input":
+	{
+		"height": 136.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/User/C.sublime-build",
+	"project": "SenpaiBot.sublime-project",
+	"replace":
+	{
+		"height": 66.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"com",
+				"main/static/main/css/semantic-ui/components/comment.css"
+			],
+			[
+				"us",
+				"venv/lib/python2.7/encodings/utf_8_sig.py"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/Documents/SpottedBot/SpottedBot.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 296.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
