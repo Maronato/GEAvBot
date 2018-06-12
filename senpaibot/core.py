@@ -148,14 +148,14 @@ def _callback_query(update_id, callback_query):
         message_id = (callback_query['message']['chat']['id'], callback_query['message']['message_id'])
 
     # Navigate the callback if it came from the menu
-    if query_data.split('.')[0] == 'eliminate':
+    if query_data.split('$$')[0] == 'eliminate':
 
         options = {
             "1": "eliminate_keyboard(chat_id, message_id, query_id)",
-            "2": "check_eliminate_keyboard(chat_id, query_data.split('.')[1], message_id, query_id)",
-            "3": "eliminate_complete_keyboard(chat_id, query_data.split('.')[1], query_data.split('.')[2], message_id, query_id)"
+            "2": "check_eliminate_keyboard(chat_id, query_data.split('$$')[1], message_id, query_id)",
+            "3": "eliminate_complete_keyboard(chat_id, query_data.split('$$')[1], query_data.split('$$')[2], message_id, query_id)"
         }
-        eval(options.get(str(len(query_data.split('.'))), "None"))
+        eval(options.get(str(len(query_data.split('$$'))), "None"))
 
     # Navigate the callback if it came from the subscription command
     if query_data.split('.')[0] == 'sub':

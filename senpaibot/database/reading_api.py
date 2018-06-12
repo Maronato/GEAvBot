@@ -24,6 +24,7 @@ def set_reading(chat_id, reading, extra={'S': ""}):
 def eliminate_chapter(chat_id, chapter):
     reading = get_reading(chat_id)
     reading.append(chapter)
+    reading = list(set(reading))
     set_reading(chat_id, reading)
 
 

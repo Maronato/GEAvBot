@@ -22,10 +22,11 @@ def get_eliminate_list_name_only(chat_id):
 def eliminate_keyboard(chat_id, message_id=None, query_id=False):
     message = "*Eliminar capítulos*\n\nToque um capítulo para eliminá-lo/marcar como lido."
     available = get_eliminate_list(chat_id)
+    el_list = get_eliminate_list_name_only(chat_id)
     if len(available) == 0:
         message = "*Eliminar capítulos*\n\nVocê terminou tudo :)"
     keyboard = InlineKeyboardMarkup(inline_keyboard=[
-        [InlineKeyboardButton(text=text, callback_data=f'eliminate.{i}')]
+        [InlineKeyboardButton(text=text, callback_data=f'eliminate$${el_list[i]}')]
         for i, text in enumerate(available)
     ])
     if query_id:
@@ -36,11 +37,10 @@ def eliminate_keyboard(chat_id, message_id=None, query_id=False):
 
 
 def check_eliminate_keyboard(chat_id, chapter, message_id, query_id):
-    el_list = get_eliminate_list_name_only(chat_id)
-    response = "*Tem certeza?*\n\nVocê está prestes a eliminar '" + el_list[int(chapter)] + "' e não há como reverter essa decisão!"
+    response = "*Tem certeza?*\n\nVocê está prestes a eliminar '" + chapter + "' e não há como reverter essa decisão!"
 
     keyboard = InlineKeyboardMarkup(inline_keyboard=[
-        [InlineKeyboardButton(text='Eliminar', callback_data='eliminate.' + str(chapter) + '.y')],
+        [InlineKeyboardButton(text='Eliminar', callback_data='eliminate$$' + chapter + '$$y')],
         [InlineKeyboardButton(text='<< Voltar', callback_data='eliminate')],
     ])
     edit_message(message_id, response, keyboard)
@@ -48,10 +48,8 @@ def check_eliminate_keyboard(chat_id, chapter, message_id, query_id):
 
 
 def eliminate_complete_keyboard(chat_id, chapter, option, message_id, query_id):
-    el_list = get_eliminate_list_name_only(chat_id)
-    el_name = el_list[int(chapter)]
-    eliminate_chapter(chat_id, el_name)
-    response = '\n\n'.join(["*Pronto!*", f"{el_name} eliminado!"])
+    eliminate_chapter(chat_id, chapter)
+    response = '\n\n'.join(["*Pronto!*", f"{chapter} eliminado!"])
 
     keyboard = InlineKeyboardMarkup(inline_keyboard=[
         [InlineKeyboardButton(text='<< Voltar', callback_data='eliminate')],
